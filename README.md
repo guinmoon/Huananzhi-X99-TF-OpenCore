@@ -6,6 +6,7 @@ OpenCore 0.8.8
 Tested on macOS 12.6.4 Monterey
 
 ![screen](dist/screen.png)
+[Geekbench6](dist/geekbench6.png)
 
 ## Hardware Configuration
 
