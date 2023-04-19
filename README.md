@@ -5,17 +5,15 @@ MacOS on Huananzhi X99 TF with OpenCore
 OpenCore 0.8.8  
 Tested on macOS 12.6.4 Monterey
 
-<img width="1407" alt="image" src="dist/screen.png">
+<img alt="image" src="dist/screen.png">
 
 ## Hardware Configuration
-
-Here's my hardware configuration.
 
 | Part | Name | 
 |:--:|:--|
 | MB  | Huananzhi X99-TF  
 | CPU | Intel 8-Core Intel Xeon E5-2640 v3 @ 2.60GHz
-| Ram | 16GB (2 * 8) DDR4 ECC 1866 
+| Ram | 16GB (2 * 8) DDR4 1866 
 | GPU | Gigabyte Radeon RX Vega56 8GB
 | SSD | Samsung EVO970 512GB NVMe 
 | SSD | NoName SATA 512GB                        
