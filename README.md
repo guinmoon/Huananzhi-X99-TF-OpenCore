@@ -5,7 +5,7 @@ MacOS on Huananzhi X99 TF with OpenCore
 OpenCore 0.8.8  
 Tested on macOS 12.6.4 Monterey
 
-<img alt="image" src="dist/screen.png">
+![screen](dist/screen.png)
 
 ## Hardware Configuration
 
@@ -20,7 +20,7 @@ Tested on macOS 12.6.4 Monterey
 
 ## Features
 
-- [x] CPU Power Management (Not Tested)
+- [x] CPU Power Management
 - [x] GPU Supported, Metal GPUFamily macOS 2
 - [x] Sleep/Wake 
 - [x] 📶 Ethernet RTL8111
