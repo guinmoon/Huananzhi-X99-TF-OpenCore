@@ -5,7 +5,7 @@ MacOS on Huananzhi X99 TF with OpenCore
 OpenCore 0.8.8  
 Tested on macOS 12.6.4 Monterey
 
-<img width="1407" alt="image" src="https://user-images.githubusercontent.com/22280294/198864026-4687ee7f-f332-49f9-bcd9-823465355e26.png">
+<img width="1407" alt="image" src="dist/screen.png">
 
 ## Hardware Configuration
 
@@ -23,15 +23,15 @@ Here's my hardware configuration.
 ## Features
 
 - [x] CPU Power Management (Not Tested)
-- [x] iCloud, AppStore, iMessage, etc.
 - [x] GPU Supported, Metal GPUFamily macOS 2
 - [x] Sleep/Wake 
 - [x] 📶 Ethernet RTL8111
-- [x] 📶 Broadcom BCM43xx WiFi+Bluetooth, , 
-- [x] Airdrop
-- [x] Continuity
+- [x] 📶 Broadcom BCM43xx WiFi+Bluetooth
 - [x] 🔌 USB Ports  
 - [x] 🎧 Realtek ALC892 Audio (AppleALC.kext)
+- [x] Airdrop
+- [x] Continuity
+- [x] iCloud, AppStore, iMessage, etc.
 
 
 # Don't forget to generate your own PlatformInfo options
